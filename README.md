@@ -1,0 +1,2 @@
+# XE700T1C_hackintosh
+三星XE700T1C的黑苹果引导文件
